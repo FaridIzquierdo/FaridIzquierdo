@@ -12,4 +12,5 @@ Skills
 - ⚡ js, ts
 - ⚡ vue js 3, angular
 - ⚡ kotlin, flutter, dart
+- ⚡ SQL, SQLite
 
