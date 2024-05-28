@@ -6,7 +6,7 @@ About Me
 - 💻 I’m studying software engineering career...
 
 Skills
-- ⚡ c++, c#
+- ⚡ c++, c#, Java, Python
 - ⚡ git
 - ⚡ html, css, boostrap
 - ⚡ js, ts
